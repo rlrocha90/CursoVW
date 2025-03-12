@@ -15,4 +15,6 @@
 
 [Processamento de Imagens](https://github.com/rlrocha90/CursoVW/blob/d5ec4b488077c5008924e5512cc87dda26799002/PDFs/05%20-%20Processamento%20de%20Imagem.pdf)
 
+[Modelos com Imagens]()
+
 ...Em atualização
