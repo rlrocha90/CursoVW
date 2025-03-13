@@ -15,6 +15,6 @@
 
 [Processamento de Imagens](https://github.com/rlrocha90/CursoVW/blob/d5ec4b488077c5008924e5512cc87dda26799002/PDFs/05%20-%20Processamento%20de%20Imagem.pdf)
 
-[Modelos com Imagens]()
+[Modelos com Imagens](https://github.com/rlrocha90/CursoVW/blob/6a6d96d0ab128ef851cd116dfe46e3485d859c57/PDFs/06%20-%20Modelos%20com%20Imagens.pdf)
 
 ...Em atualização
