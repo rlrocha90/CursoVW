@@ -17,4 +17,4 @@
 
 [Modelos com Imagens](https://github.com/rlrocha90/CursoVW/blob/6a6d96d0ab128ef851cd116dfe46e3485d859c57/PDFs/06%20-%20Modelos%20com%20Imagens.pdf)
 
-...Em atualização
+[Esteira de Implementação] (https://github.com/rlrocha90/CursoVW/blob/c6c15ec3cf3838463033277b9946a3706bae3e9a/PDFs/07%20-%20Esteira%20de%20implementa%C3%A7%C3%A3o_Produtiza%C3%A7%C3%A3o.pdf)
