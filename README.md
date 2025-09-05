@@ -5,7 +5,7 @@
 
 [IA Avançado - Primeiro Encontro Online](https://github.com/rlrocha90/CursoVW/blob/5d1ccaad040fbcaf36a15d759db9c86af6b67401/PDFs/00%20-%20IA%20Avan%C3%A7ado%20-%20Introdu%C3%A7%C3%A3o.pdf)  
 
-[Análise Exploratória de Dados]  
+[Análise Exploratória de Dados](https://github.com/rlrocha90/CursoVW/blob/e49e4098ba7bf3aa8be608d406a1d0207ae8a7ac/PDFs/01%20-%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados.pdf) 
 
 [Redes Neurais e Deep Learning]
 
