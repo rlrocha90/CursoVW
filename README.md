@@ -8,6 +8,7 @@
 [Análise Exploratória de Dados](https://github.com/rlrocha90/CursoVW/blob/e49e4098ba7bf3aa8be608d406a1d0207ae8a7ac/PDFs/01%20-%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados.pdf) 
 
 [Redes Neurais e Deep Learning]
+(https://github.com/rlrocha90/CursoVW/blob/66dfc54c6b9ef5a6b19b0c436ea01a7ca749ebf7/PDFs/02%20-%20Redes%20Neurais%20e%20Deep%20Learning.pdf)
 
 [Fundamentos de Visão Computacional]
 
