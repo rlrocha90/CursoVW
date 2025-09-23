@@ -9,7 +9,7 @@
 
 [Redes Neurais e Deep Learning](https://github.com/rlrocha90/CursoVW/blob/66dfc54c6b9ef5a6b19b0c436ea01a7ca749ebf7/PDFs/02%20-%20Redes%20Neurais%20e%20Deep%20Learning.pdf)
 
-[Fundamentos de Visão Computacional]
+[Fundamentos de Visão Computacional](https://github.com/rlrocha90/CursoVW/blob/479791ac5e7c0b83e5eac47175c9458161256c40/PDFs/03%20-%20Fundamentos%20de%20Vis%C3%A3o%20Computacional.pdf)
 
 [IA Generativa](https://github.com/rlrocha90/CursoVW/blob/34d94d70258a6e7d3e62eb1d3da94bd93f69b294/PDFs/04%20-%20IA%20Generativa.pdf)
 
