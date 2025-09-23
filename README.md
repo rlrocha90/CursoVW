@@ -11,7 +11,7 @@
 
 [Fundamentos de Visão Computacional]
 
-[IA Generativa]
+[IA Generativa](https://github.com/rlrocha90/CursoVW/blob/34d94d70258a6e7d3e62eb1d3da94bd93f69b294/PDFs/04%20-%20IA%20Generativa.pdf)
 
 [Processamento de Imagens]
 
